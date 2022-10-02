@@ -1,0 +1,12 @@
+---
+title: "Enrico Spinielli"
+subtitle: "A curious geek"
+---
+
+I am a curious person fascinated by the collective open knowledge available at our fingertips
+(well, at least if you are lucky enough so you can afford decent living conditions).
+
+I am a *curious geek*. I love map projections and calendrical algorithms a lot.
+  
+I (sort of) like to tinker with electronics but software is much more malleable and faster to work
+with, so, due to lack of time, I mainly play with software...

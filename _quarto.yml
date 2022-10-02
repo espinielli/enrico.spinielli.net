@@ -1,0 +1,45 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "Enrico Spinielli"
+  image: "enrico.png"
+  favicon: "favicon.png"
+  open-graph: true
+  twitter-card: true
+  site-url: https://enrico.spinielli.net
+  repo-url: https://github.com/espinielli/enrico.spinielli.net
+  repo-actions: [edit, issue]
+  page-navigation: true
+  page-footer:
+    left: |
+      Created with
+      [![](https://quarto.org/quarto.png){fig-alt="Quarto" width=65px}](https://www.quarto.org)
+    center:
+      - text: "About"
+        href: about.qmd
+    right:
+      - icon: twitter
+        href: https://twitter.com/espinielli
+        aria-label: Enrico on Twitter
+      - icon: github
+        href: https://github.com/espinielli
+        aria-label: Enrico on GitHub
+      - icon: linkedin
+        href: https://www.linkedin.com/in/espinielli/
+        aria-label: Enrico on LinkedIn
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - about.qmd
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+
+

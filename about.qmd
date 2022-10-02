@@ -1,0 +1,25 @@
+---
+title: "About"
+from: markdown+emoji
+---
+
+
+I'm an Italian :it: living in Brussels, Belgium.
+
+I work in the [Aviation Intelligence Unit](https://ansperformance.eu) of the [European Organisation for the Safety of Air Navigation](https://www.eurocontrol.int) (a.k.a. <span style="font-variant:small-caps;">EUROCONTROL</span>).
+
+**I love open source software** and am grateful to all the ones contributing to it.
+I, too, try to participate a little with bug fixes, typo corrections, some code of my own or just appreciation.
+
+Did I say I also love open data? No? Ok, so **I love open data** because I am convinced it is an instrument for citizens, and civil society to support democracy, i.e. transparency and accountability.
+
+
+{{< fa graduation-cap >}} M.Sc in Electronic Engineering  &#8729; University of Pisa, Italy  &#8729;  1994
+
+
+Find more on:
+
+* {{< fa brands twitter >}} - [Twitter](https://twitter.com/espinielli)
+* {{< fa brands github >}} - [Github](https://github.com/espinielli)
+* {{< fa brands linkedin >}} - [LinkedIn](https://www.linkedin.com/in/espinielli/)
+* {{< fa brands orcid >}} - [ORCID](https://orcid.org/0000-0001-8584-9131)
