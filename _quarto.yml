@@ -14,26 +14,29 @@ website:
   page-navigation: true
   page-footer:
     left: |
-      Created with
-      [![](https://quarto.org/quarto.png){fig-alt="Quarto" width=65px}](https://www.quarto.org)
+     Created with
+     [![](https://quarto.org/quarto.png){fig-alt="Quarto" width=65px}](https://www.quarto.org)
     center:
-      - text: "About"
-        href: about.qmd
+    - text: "About"
+      href: about.qmd
     right:
-      - icon: twitter
-        href: https://twitter.com/espinielli
-        aria-label: Enrico on Twitter
-      - icon: github
-        href: https://github.com/espinielli
-        aria-label: Enrico on GitHub
-      - icon: linkedin
-        href: https://www.linkedin.com/in/espinielli/
-        aria-label: Enrico on LinkedIn
+    - icon: twitter
+      href: https://twitter.com/espinielli
+      aria-label: Enrico on Twitter
+    - icon: github
+      href: https://github.com/espinielli
+      aria-label: Enrico on GitHub
+    - icon: linkedin
+      href: https://www.linkedin.com/in/espinielli/
+      aria-label: Enrico on LinkedIn
   navbar:
     left:
-      - href: index.qmd
-        text: Home
-      - about.qmd
+    - href: index.qmd
+      text: Home
+    - href: blog/index.qmd
+      text: Blog
+    right:
+    - about.qmd
 
 format:
   html:

@@ -1,0 +1,24 @@
++++
+author = "Enrico Spinielli"
+blogger_id = "tag:blogger.com,1999:blog-1947405997418753543.post-3456902429651096265"
+blogger_orig_url = "https://ongiantsshoulders.blogspot.com/2012/04/metacircularity.html"
+comments = true
+date = "2012-04-18"
+modified_time = "2012-04-18T15:58:09.764+02:00"
+tags = ["lisp metacircular"]
+title = "metacircularity"
+url = "/2012/04/18/metacircularity/"
+
++++
+
+I found and liked a very good summary of the 'Maxwell Equations of software'
+motto from Alan Kay in
+[this post](https://www.michaelnielsen.org/ddi/lisp-as-the-maxwells-equations-of-software/)
+from Michael Nielsen.
+
+It is nice also because it has running code inspired by all the gurus and books
+I like: [Alan Kay](https://en.wikipedia.org/wiki/Alan_Kay),
+[Peter Norvig](https://norvig.com),
+[John McCarthy](https://www-formal.stanford.edu/jmc/),
+[SICP](https://mitpress.mit.edu/sicp/full-text/book/book-Z-H-4.html),
+[Paul Graham](https://paulgraham.com/).
