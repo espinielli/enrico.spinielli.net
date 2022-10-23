@@ -1,15 +1,11 @@
-+++
-author = "Enrico Spinielli"
-blogger_id = "tag:blogger.com,1999:blog-1947405997418753543.post-1883437193742052867"
-blogger_orig_url = "https://ongiantsshoulders.blogspot.com/2009/02/my-giants.html"
-comments = true
-date = "2009-02-23"
-modified_time = "2009-07-28T23:44:08.681+02:00"
-tags = ["latex", "kay", "croquet", "tex", "knuth", "squeak"]
-title = "My Giants"
-type = "post"
-
-+++
+---
+author: "Enrico Spinielli"
+blogger_id: "tag:blogger.com,1999:blog-1947405997418753543.post-1883437193742052867"
+blogger_orig_url: "https://ongiantsshoulders.blogspot.com/2009/02/my-giants.html"
+date: "2009-02-23"
+categories: ["latex", "kay", "croquet", "tex", "knuth", "squeak"]
+title: "My Giants"
+---
 
 I am probably too selective, anyway my models for computer science/software engineering (one of them would disagree on both definitions) are just two: [Donald E. Knuth](https://www-cs-faculty.stanford.edu/~uno/) and [Alan Kay](https://www.vpri.org/html/people/founders.htm).
 

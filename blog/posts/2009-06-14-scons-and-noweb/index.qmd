@@ -1,15 +1,11 @@
-+++
-author = "Enrico Spinielli"
-blogger_id = "tag:blogger.com,1999:blog-1947405997418753543.post-287329049599051800"
-blogger_orig_url = "https://ongiantsshoulders.blogspot.com/2009/06/scons-and-noweb.html"
-comments = true
-date = "2009-06-14"
-modified_time = "2009-07-07T21:47:13.133+02:00"
-tags = ["scons", "latex", "python", "noweb"]
-title = "Scons and noweb"
-url = "/2009/06/14/scons-and-noweb/"
-
-+++
+---
+author: "Enrico Spinielli"
+blogger_id: "tag:blogger.com,1999:blog-1947405997418753543.post-287329049599051800"
+blogger_orig_url: "https://ongiantsshoulders.blogspot.com/2009/06/scons-and-noweb.html"
+date: "2009-06-14"
+categories: ["scons", "latex", "python", "noweb"]
+title: "Scons and noweb"
+---
 
 I was curious to see how I could integrate noweb and Scons.
 
