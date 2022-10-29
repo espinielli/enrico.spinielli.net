@@ -1,0 +1,20 @@
+---
+date: "2017-07-09"
+title: "PyCalCal"
+subtitle: Calendrical Algorithms in Python
+categories: ["Calendrica", "Python"]
+bibliography: ../../bibliography.bib
+---
+
+![Exploded computer reconstruction of the Antikythera Mechanism](featured.png)
+
+
+`PyCalCal` is a Python implementation of the algorithms from the reference Common Lisp
+ of the book Calendrical Calculation [@calcal2008].
+ You can read more at <https://github.com/espinielli/pycalcal/>
+
+
+The picture above is an exploded computer reconstruction of the Antikythera Mechanism from 
+Figure 3 in ['Eclipse Prediction on the Ancient Greek Astronomical
+Calculating Machine Known as the Antikythera Mechanis'
+](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0103275) by Tony Freeth".

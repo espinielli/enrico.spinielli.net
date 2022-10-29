@@ -1,0 +1,42 @@
+---
+author: "Enrico Spinielli"
+blogger_id: "tag:blogger.com,1999:blog-1947405997418753543.post-668260247104145680"
+blogger_orig_url: "https://ongiantsshoulders.blogspot.com/2012/02/git-and-rsa-identities.html"
+date: "2012-02-06"
+categories: ["git"]
+title: "Git and RSA identities"
+url: "/2012/02/06/git-and-rsa-identities/"
+---
+
+Here is the solution I found to be able to use `git` with a different RSA identity than the `rsa_id`
+default one.
+
+My repo on github is `logback-android` and my user account is `espinielli`.
+
+I did generate an SSH key as per github help and named it `github_rsa`:
+
+```
+$ ssh-keygen -t rsa -C "your_email@youremail.com" -f github_rsa
+```
+
+I then added the following section in `~/.ssh/config`
+
+```
+# github for espinielli
+Host github
+HostName github.com
+User espinielli
+IdentityFile /Users/espin/.ssh/github_rsa
+```
+
+From within the repo directory (I cloned it before via http):
+
+```
+$ git remote add gh ssh://git@github.com/espinielli/logback-android.git
+```
+
+And finally I am able to use it like this:
+
+```
+$ git push gh master
+```

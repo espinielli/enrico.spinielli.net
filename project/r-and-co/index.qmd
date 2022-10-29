@@ -1,0 +1,35 @@
+---
+title: "Data science and R"
+date: "2017-07-09"
+subtitle: "Data science using the R programming language and all of its fantastic ecosystem."
+catagories: ["Data Science", "R", "Data Visualization"]
+---
+
+![R](featured.png){width=20%}
+
+Data Analysis is big part of my daily job and I am promoting the use
+of [R][r] for reproducibility, exploratory data analysis and for visualization
+too (using for example [Hadley Wickham][hadley]'s [ggplot2][ggplot2]!)
+
+
+Some of the R packages I have developed/am developing are:
+
+* [`trrrj`][trrrj]: dealing with flight trajectories in R
+* [`nvctr`][nvctr]: n-vector approach to geographical position calculations using an ellipsoidal model of Earth
+* [`pruatlas`][pruatlas]: some maps facilities for aviation
+
+[trrrj]: <https://trrrj.ansperformance.eu> "trrrj R package"
+[nvctr]: <https://nvctr.ansperformance.eu> "nvctr R package"
+[pruatlas]: <https://pruatlas.ansperformance.eu> "pruatlas R package"
+
+[ggplot2]: <https://ggplot2.org/> "ggplot2"
+[hadley]: <https://hadley.nz/> "Hadley Wickham's Home Page"
+
+[tfa]: <https://www.thefunctionalart.com/> "The Functional Art"
+[tufte]: <https://www.edwardtufte.com/tufte/index> "Edward Tufte's Home Page"
+[kirk]: <https://www.visualisingdata.com/> "Andy Kirk's Home Page"
+[few]: <https://www.perceptualedge.com/> "Stephen Few's Home Page"
+[bertini]: <https://enrico.bertini.io/> "Enrico Bertini's Home Page"
+[r]: <https://www.r-project.org/> "The R Project for Statistical Computing"
+[egithub]: <https://github.com/espinielli> "Enrico's Github"
+[etwitter]: <https://twitter.com/espinielli> "Enrico's Twitter"

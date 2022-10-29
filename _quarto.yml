@@ -33,14 +33,18 @@ website:
     left:
     - href: index.qmd
       text: Home
-    - href: blog/index.qmd
+    - href: blog.qmd
       text: Blog
+    - href: projects.qmd
+      text: Projects
+    - href: publications.qmd
+      text: Publications
     right:
     - about.qmd
 
 format:
   html:
-    theme: cosmo
+    theme: solar
     css: styles.css
     toc: true
 

@@ -1,8 +1,23 @@
 ---
 title: "About"
 from: markdown+emoji
+image: enrico.png
+about:
+  template: jolla
+  links:
+    - icon: twitter
+      text: Twitter
+      href: https://twitter.com/espinielli
+    - icon: github
+      text: Github
+      href: https://github.com/espinielli
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/espinielli/
+    # add fontawesome icon, needs fontawesome extension
+    - text: "{{< fa brands orcid >}} ORCID"
+      href: https://orcid.org/0000-0001-8584-9131
 ---
-
 
 I'm an Italian :it: living in Brussels, Belgium.
 
@@ -16,10 +31,3 @@ Did I say I also love open data? No? Ok, so **I love open data** because I am co
 
 {{< fa graduation-cap >}} M.Sc in Electronic Engineering  &#8729; University of Pisa, Italy  &#8729;  1994
 
-
-Find more on:
-
-* {{< fa brands twitter >}} - [Twitter](https://twitter.com/espinielli)
-* {{< fa brands github >}} - [Github](https://github.com/espinielli)
-* {{< fa brands linkedin >}} - [LinkedIn](https://www.linkedin.com/in/espinielli/)
-* {{< fa brands orcid >}} - [ORCID](https://orcid.org/0000-0001-8584-9131)

@@ -1,0 +1,46 @@
+---
+date: "2017-07-09"
+title: "Learning: neither Deep nor Machine, just Human"
+subtitle: "My (wish) list of things to learn."
+categories: ["Machine Learning"]
+---
+
+On one side I am intrigued by Data
+Analysis and Visualization (see some of my [D3 [et al.] blocks][egists], [Observable notebooks][on] or my [R project](/project/r-and-co/)) and on
+the other side by Machine Learning.
+
+For ML I am very slowly going thru some [MOOC][mooc]:
+
+* [Richard McElreath][rme]'s [Statistical Rethinking][srt]
+* [Andrew Ng][ng]'s [Machine Learning][ml].
+* [Statistical Learning][statlearning] by Stanford University Profs.
+  [Trevor Hastie][trev] and [Rob Tibshirani][rob].
+* [Daphne Koller][dk]'s [Probabilistic Graphical Models][pgm].
+
+Wish me luck.
+
+
+
+[ng]: <https://www.andrewng.org/> "Andrew Ng's Home Page"
+[dk]: <https://ai.stanford.edu/~koller/> "Daphne Koller's Home Page"
+[pgm]: <https://www.coursera.org/specializations/probabilistic-graphical-models> "Probabilistic Graphical Models"
+[ml]: <https://www.coursera.org/learn/machine-learning> "Coursera: Machine Learning"
+[statlearning]: <https://statlearning.class.stanford.edu/> "Statistical Learning MOOC"
+[mooc]: <https://en.wikipedia.org/wiki/Massive_open_online_course> "wikipedia: MOOC"
+[rob]: <https://statweb.stanford.edu/~tibs/> "Prof Rob Tibshirani"
+[trev]: <https://web.stanford.edu/~hastie/> "Prof Trevor Hastie"
+[rme]: <https://xcelab.net/rm/> "Richard McElreath"
+
+[ggplot2]: <https://ggplot2.org/> "ggplot2"
+[hadley]: <https://hadley.nz/> "Hadley Wickham's Home Page"
+[egists]: <https://bl.ocks.org/espinielli> "Enrico Spinielli's blocks"
+[tfa]: <https://www.thefunctionalart.com/> "The Functional Art"
+[tufte]: <https://www.edwardtufte.com/tufte/index> "Edward Tufte's Home Page"
+[kirk]: <https://www.visualisingdata.com/> "Andy Kirk's Home Page"
+[few]: <https://www.perceptualedge.com/> "Stephen Few's Home Page"
+[bertini]: <https://enrico.bertini.io/> "Enrico Bertini's Home Page"
+[r]: <https://www.r-project.org/> "The R Project for Statistical Computing"
+[egithub]: <https://github.com/espinielli> "Enrico's Github"
+[etwitter]: <https://twitter.com/espinielli> "Enrico's Twitter"
+[srt]: <https://github.com/rmcelreath/stat_rethinking_2020> "Statistical Rethinking"
+[on]: <https://observablehq.com/@espinielli> "Enrico's Observable notebooks"

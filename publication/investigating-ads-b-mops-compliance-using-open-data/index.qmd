@@ -1,0 +1,24 @@
+---
+title: Investigating ADS-B MOPS Compliance using Open Data
+author: Enrico Spinielli
+date: '2019-12-23'
+categories:
+  - Research
+  - ADS-B
+doi: '10.29007/q4kb'
+---
+
+![Flight milestones](featured.png)
+
+## Abstract
+
+The introduction of Automatic Dependent Surveillance-Broadcast (ADS-B) in Aviation as mandated in the US and in Europe rests on the (at least theoretical) benefits of the switch of paradigm in ATC surveillance from (continuously) active interrogation of aircraft positions by primary radars to (almost always) automatic broadcast of data by the aircraft. The cost/benefit analysis in favour of this shift weights on the 1) higher frequency and precision of the aircraft information (position, speed, . . . ) made available to ATC/neighbouring aircraft leading to increased safety and increased airspace capacity and 2) on the (at least one) order of magnitude reduction in ground infrastructure costs [5]. Infrastructure needs nontheless to be deployed both on the ground and in the air; and in the end it is the passenger who pays via taxes on tickets or airports services: so what is the status of deployment? This paper investigates, using only open and free data, the status of compliance of aircraft in the European airspace, i.e. how many aircraft flying in Europe comply to the EASA ADS-B mandate.
+
+## Venue
+
+[**The 7th OpenSky Workshop**](https://workshop.opensky-network.org/2019/), 21/22 November 2019.
+Hosted by Swisscom's WorkGym, Zurich, Switzerland.
+
+## See Also
+
+* [PDF  {{< fa file-pdf >}}](https://doi.org/10.29007/q4kb)

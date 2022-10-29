@@ -1,0 +1,14 @@
+---
+title: Blog
+subtitle: News, tips, and rantings
+listing:
+  sort: "date desc"
+  contents: "posts"
+  sort-ui: false
+  filter-ui: false
+  categories: true
+  feed: true
+page-layout: full
+title-block-banner-color: body
+search: false
+---

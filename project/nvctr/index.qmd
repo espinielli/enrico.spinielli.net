@@ -1,0 +1,18 @@
+---
+date: "2016-04-27T00:00:00Z"
+external_link: https://nvctr.ansperformance.eu/
+title: nvctr
+bibliography: ../../bibliography.bib
+subtitle: An R data package for geographical position calculations using an ellipsoidal model of Earth 
+categories:
+  - R
+---
+![nvctr](featured.png){width=20%}
+
+
+The [`nvctr`](https://nvctr.ansperformance.eu/) R package implements the n-vector approach to geographical position calculations using
+an ellipsoidal model of Earth as described in [@gadeNonsingularHorizontalPosition2010] (see also the
+`n-vector` project page [@navigationgroupatffiNvectorPage2010].)
+
+
+
