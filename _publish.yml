@@ -1,0 +1,4 @@
+- source: project
+  netlify:
+    - id: "3ff21cdd-bb23-4ce4-baae-8d1cd0f6cbeb"
+      url: "https://espinielli.netlify.app/"

@@ -1,0 +1,14 @@
+{
+  "hash": "a2e70db6b64420781a5237d9a3029341",
+  "result": {
+    "markdown": "---\ntitle: Expandig Kobo Clara HD's microSD Card\nauthor: Enrico Spinielli\ndate: '2020-04-19'\nlicense: CC BY-SA\n---\n\n\nThe COVID-19 lockdown in Belgium was officially enforced on noon 18th Mar 2020 but\nat home we were already quarantined (kids since Carnival holidays, 24th Feb; me from EOB 13th Mar).\nSo on my first official telework day, 16th Mar, I finally decided to buy an ebook reader,\nand selected Kobo Clara HD.\n\nI like it but still I was curious and looked around for how to hack it.\nI found that it is possible to change the original SD card (8 GB) with a bigger one\nand decided to give it a go.\nThis [blog post](https://yingtongli.me/blog/2018/07/29/kobo-sd.html) from \n[Lee Yingtong Li](https://yingtongli.me/) got me started.\n\nI opened it, took the SD card out and copied on a bigger one of 128 GB.\n\n\n::: {.cell}\n::: {.cell-output-display}\n![](kobo.png){width=212}\n:::\n:::\n\n\nIt all went well apart from the last 2 lines of text:\n\n> Then use a tool like gparted to resize the data partition (the large third partition) on the new microSD card to fill the remaining space.\n\nI tried all kind of things to have [`gparted`](https://gparted.org/) running from\na Mac (docker image, Virtual Box) but\nwhat finally worked for me was to have it on a bootable CD ROM (yes I still have an old machine\nwith CD reader/writer): I burned the ISO image, booted from it and resized the SD card to all \navailable space.\n\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}
