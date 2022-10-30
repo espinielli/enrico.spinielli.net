@@ -2,6 +2,7 @@
 title: New Blog Engine
 author: Enrico Spinielli
 date: '2018-01-02'
+license: CC BY-SA
 ---
 
 I finally decided to give it a try and then switched to `blogdown`

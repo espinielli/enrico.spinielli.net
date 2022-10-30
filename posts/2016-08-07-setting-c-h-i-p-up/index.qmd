@@ -2,6 +2,7 @@
 date: "2016-08-07"
 title: "Setting C.H.I.P. up"
 author: Enrico Spinielli
+license: CC BY-SA
 ---
 
 Few weeks ago I finally received my [C.H.I.P.][chip]

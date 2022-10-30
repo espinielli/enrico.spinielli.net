@@ -4,6 +4,7 @@ blogger_id: "tag:blogger.com,1999:blog-1947405997418753543.post-4839232794170965
 blogger_orig_url: "https://ongiantsshoulders.blogspot.com/2013/05/on-revising.html"
 date: "2013-05-13"
 title: "on revising"
+license: CC BY-SA
 ---
 
 Lately I found myself involved into writing.

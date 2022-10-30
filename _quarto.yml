@@ -10,15 +10,9 @@ website:
   twitter-card: true
   site-url: https://enrico.spinielli.net
   repo-url: https://github.com/espinielli/enrico.spinielli.net
-  repo-actions: [edit, issue]
+  repo-actions: [issue]
   page-navigation: true
   page-footer:
-    left: |
-     Created with
-     [![](https://quarto.org/quarto.png){fig-alt="Quarto" width=65px}](https://www.quarto.org)
-    center:
-    - text: "About"
-      href: about.qmd
     right:
     - icon: twitter
       href: https://twitter.com/espinielli
@@ -31,8 +25,6 @@ website:
       aria-label: Enrico on LinkedIn
   navbar:
     left:
-    - href: index.qmd
-      text: Home
     - href: blog.qmd
       text: Blog
     - href: projects.qmd

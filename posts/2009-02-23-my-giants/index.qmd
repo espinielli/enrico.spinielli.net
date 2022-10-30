@@ -5,6 +5,7 @@ blogger_orig_url: "https://ongiantsshoulders.blogspot.com/2009/02/my-giants.html
 date: "2009-02-23"
 categories: ["LaTeX", "Croquet", "Literate Programming"]
 title: "My Giants"
+license: CC BY-SA
 ---
 
 I am probably too selective, anyway my models for computer science/software engineering (one of them would disagree on both definitions) are just two: [Donald E. Knuth](https://www-cs-faculty.stanford.edu/~uno/) and [Alan Kay](https://www.vpri.org/html/people/founders.htm).

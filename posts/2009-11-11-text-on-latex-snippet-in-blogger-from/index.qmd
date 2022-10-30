@@ -6,6 +6,7 @@ date: "2009-11-11"
 modified_time: "2012-10-02T09:37:22.153+02:00"
 categories: ["LaTeX"]
 title: "LaTeX on Blogger"
+license: CC BY-SA
 ---
 Revisited in 2022 where Quarto makes everything easy.
 

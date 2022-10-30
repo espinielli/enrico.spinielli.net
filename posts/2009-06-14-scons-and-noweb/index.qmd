@@ -5,6 +5,7 @@ blogger_orig_url: "https://ongiantsshoulders.blogspot.com/2009/06/scons-and-nowe
 date: "2009-06-14"
 categories: ["LaTeX", "Python", "Literate Programming"]
 title: "Scons and noweb"
+license: CC BY-SA
 ---
 
 I was curious to see how I could integrate noweb and Scons.

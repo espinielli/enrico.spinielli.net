@@ -5,6 +5,7 @@ blogger_orig_url: "https://ongiantsshoulders.blogspot.com/2012/04/metacircularit
 date: "2012-04-18"
 categories: ["lisp"]
 title: "metacircularity"
+license: CC BY-SA
 ---
 
 I found and liked a very good summary of the 'Maxwell Equations of software'

@@ -15,3 +15,4 @@ search: false
 
 I am not an academic by profession, but when possible I share what I can from my professional
 activities or my personal passions.
+

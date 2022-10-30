@@ -3,6 +3,7 @@ author: "Enrico Spinielli"
 date: "2016-04-02"
 categories: ["Android"]
 title: "DVD to Android Tablet"
+license: CC BY-SA
 ---
 
 # How to transfer your DVDs to your Android Tablet

@@ -3,6 +3,7 @@ title: ErgoDox keyboard
 author: Enrico Spinielli
 date: '2018-06-30'
 categories: ["keyboard"]
+license: CC BY-SA
 ---
 
 

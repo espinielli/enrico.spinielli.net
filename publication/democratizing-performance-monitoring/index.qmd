@@ -1,0 +1,17 @@
+---
+title: "Building Back Better – Democratization of Performance Monitoring with Open Data"
+date: "2021-10-07"
+author: Rainer Koelle, Sam Peeters, Enrico Spinielli
+doi: https://doi.org/10.1109/DASC52595.2021.9594320
+---
+
+![DASC 2021](featured.png)
+
+## Abstract
+
+The COVID-19 pandemic accelerated the use, sharing, and distribution of data on a global basis. Higher levels of transparency were achieved with continual updates of pandemic related information. The air transportation sector – while by definition an information rich industry – is a notable exception. While different organizations offered aggregated data on air traffic developments on national or airport level, complementary data on air traffic movements for further analysis are not available publicly. This creates a deadlock between addressing the societal needs of monitoring how aviation recovers from the COVID-19 pandemic and addresses the aspirational environmental goals. This paper investigates the feasibility of utilizing open data for the operational performance monitoring at airports. The exploratory work focusses on a subset of the indicators proposed under ICAO’s Global Air Navigation Plan used to assess the operational performance in the arrival phase. A novel approach to characterize and assess the arrival flow management and level of traffic synchronization is presented. This will allow to evaluate on-going air traffic recovery and identify operational bottlenecks. The study is performed as a use-case analysis for three major European airports by comparing the observed performance in the months of March and May for the successive years 2019, 2020, and 2021. The results demonstrate the general feasibility and utility of open data for operational performance monitoring. The classical performance measure for the arrival flow are determined based on the open trajectory data. A geospatial-temporal evaluation support the tracking of traffic synchronisation effort. A higher level of transparency therefore available to the interested public, policy decision-makers and strategic planners with direct feedback on the recovery and actual operational performance. The suitability of the traffic synchronization measure and its parameterization requires further validation across a wider set of airports and will be iteratively refined.
+
+
+## Venue
+
+2021 IEEE/AIAA 40th Digital Avionics Systems Conference (DASC), San Antonio, Texas, USA.

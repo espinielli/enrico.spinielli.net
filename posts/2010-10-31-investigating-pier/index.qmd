@@ -5,6 +5,7 @@ blogger_orig_url: "https://ongiantsshoulders.blogspot.com/2010/10/investigating-
 date: "2010-10-31"
 categories: ["smalltalk"]
 title: "Investigating Pier"
+license: CC BY-SA
 ---
 
 I have been playing around with [Pier](https://www.piercms.com/).

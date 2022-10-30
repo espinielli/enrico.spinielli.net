@@ -3,13 +3,14 @@ title: "Data science and R"
 date: "2017-07-09"
 subtitle: "Data science using the R programming language and all of its fantastic ecosystem."
 catagories: ["Data Science", "R", "Data Visualization"]
+bibliography: ../../bibliography.bib
 ---
 
 ![R](featured.png){width=20%}
 
 Data Analysis is big part of my daily job and I am promoting the use
 of [R][r] for reproducibility, exploratory data analysis and for visualization
-too (using for example [Hadley Wickham][hadley]'s [ggplot2][ggplot2]!)
+too (using for example [Hadley Wickham](https://hadley.nz/)'s [ggplot2](https://ggplot2-book.org/) [@wickhamGgplot2ElegantGraphics2016]!)
 
 
 Some of the R packages I have developed/am developing are:

@@ -4,7 +4,8 @@ blogger_id: "tag:blogger.com,1999:blog-1947405997418753543.post-6540830835006758
 blogger_orig_url: "https://ongiantsshoulders.blogspot.com/2012/01/latex-on-blogger-again.html"
 date: 2012-01-20
 categories: ["LaTeX"]
-title: LaTeX on Blogger again
+title: "LaTeX on Blogger again"
+license: CC BY-SA
 ---
 Revisited in 2022  to make it work wit Quarto...where things are so easy!
 

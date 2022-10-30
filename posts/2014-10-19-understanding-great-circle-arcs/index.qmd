@@ -5,6 +5,7 @@ blogger_orig_url: "https://ongiantsshoulders.blogspot.com/2014/10/understanding-
 date: "2014-10-19"
 categories: ["Maps", "D3"]
 title: "Understanding Great Circle Arcs Intersection Algorithm"
+license: CC BY-SA
 ---
 
 The following material is the result of my attempt to understand the

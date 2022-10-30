@@ -3,6 +3,7 @@ title: How Internet Long Tail Helped Me Fixing My Smartphone
 author: Enrico Spinielli
 date: '2015-01-30'
 categories: ["repair"]
+license: CC BY-SA
 ---
 
 I am just more and more amazed by the opportunities offered by the current Internet connectivity: they call it the [long tail](https://en.wikipedia.org/wiki/Long_tail).

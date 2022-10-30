@@ -3,6 +3,7 @@ title: "Docker image for locally testing Oracle"
 author: "Enrico Spinielli"
 date: "2016-10-31"
 categories: ["docker"]
+license: CC BY-SA
 ---
 
 # Docker for Oracle

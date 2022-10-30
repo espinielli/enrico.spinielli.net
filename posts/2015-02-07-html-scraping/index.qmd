@@ -3,6 +3,7 @@ author: "Enrico Spinielli"
 date: "2015-02-07"
 categories: ["webscrape"]
 title: "HTML Scraping or Surviving Orrible Corporate Tools"
+license: CC BY-SA
 ---
 
 At work I have to fill my weekly timesheet. We use [Planisware][opx]'s Timecard to record time spent on the various projects we are assigned to work on.

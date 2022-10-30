@@ -10,3 +10,11 @@ I am a *curious geek*. I love map projections and calendrical algorithms a lot.
 
 I (sort of) like to tinker with electronics but software is much more malleable and faster to work
 with, so, due to lack of time, I mainly play with software...
+
+
+## Interests
+
+* Aviation
+* [Statistical learning](https://github.com/rmcelreath/stat_rethinking_2020) (mainly the learning ;-)
+* [Map projections](https://observablehq.com/collection/@fil/projections)
+* [Calendrical algorithms](https://www.cs.tau.ac.il/~nachum/calendar-book/fourth-edition/)

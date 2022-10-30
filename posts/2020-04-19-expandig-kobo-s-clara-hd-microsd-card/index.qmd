@@ -2,9 +2,7 @@
 title: Expandig Kobo Clara HD's microSD Card
 author: Enrico Spinielli
 date: '2020-04-19'
-params:
-  slug: expandig-kobo-s-clara-hd-microsd-card
-  date: '2020-04-19'
+license: CC BY-SA
 ---
 
 The COVID-19 lockdown in Belgium was officially enforced on noon 18th Mar 2020 but

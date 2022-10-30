@@ -3,6 +3,7 @@ author: "Enrico Spinielli"
 date: "2014-08-29"
 categories: ["recruitment"]
 title: "Failing to be recruited..."
+license: CC BY-SA
 ---
 
 This post title to be frank should have been "*Impressions about the selection process of a big Internet company (and my failure to go to the next steps after initial engagement)*," but that is obviously too long.

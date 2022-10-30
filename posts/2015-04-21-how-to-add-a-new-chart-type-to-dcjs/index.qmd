@@ -3,6 +3,7 @@ author: "Enrico Spinielli"
 date: "2015-04-21"
 categories: ["D3"]
 title: "How to add a new chart type to dc.js"
+license: CC BY-SA
 ---
 
 

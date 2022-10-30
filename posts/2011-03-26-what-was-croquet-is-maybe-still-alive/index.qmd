@@ -5,6 +5,7 @@ blogger_orig_url: "https://ongiantsshoulders.blogspot.com/2011/03/what-was-croqu
 date: "2011-03-26"
 ctegories: ["smalltalk", "Croquet"]
 title: "(What was) Croquet is maybe still alive"
+license: CC BY-SA
 ---
 
 It seems there is still some hope to see [Croquet](https://www.opencroquet.org/) (or, [OpenCobalt](https://www.opencobalt.org/) which took off from where Croquet stopped) alive and based on latest [Squeak](https://www.squeak.org/) and more importantly using Cog VM.

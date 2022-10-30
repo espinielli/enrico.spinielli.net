@@ -1,0 +1,17 @@
+---
+title: "Reference Trajectories: The Dataset Enabling Gate-to-Gate Flight Analysis"
+author: John Fitzgerald, Enrico Spinielli, Allan Tart, Rainer Koelle
+doi:  https://doi.org/10.3390/engproc2021013014
+date: "2021-11-18"
+---
+
+![The 9th OpenSky Symposium](featured.png)
+
+## Abstract
+
+Without a doubt, a publicly verifiable data is required to ensure a strong, transparent and independent air traffic management performance review system. Community sourced data (such as ADS-B/Mode S provided by OpenSky Network and others alike) has been used to analyse different aspects of air traffic management. The main drawback of such ADS-B data is the lack of crucial pieces of information that need to be inferred. On the other hand, Eurocontrol has used correlated position reports (CPRs) gathered from European Air Navigation Service Providers (ANSP) to conduct some of its actual/flown trajectory oriented performance analysis. The availability and the granularity of the CPRs vary between Eurocontrol Member States, making it difficult to perform accurate wide-scale studies. Using the strengths of both data sources would obviously result in great benefits. This paper describes the first step in creating a pan-European Flight Table (FT) and its supporting reference trajectories (RT). It is expected that the resulting dataset will be made available for the general public and that the work will continue to improve in scope and accuracy.
+
+## Venue
+
+The 9th OpenSky Workshop, 18--19 November 2021. Hosted by EUROCONTROL in Brussels, Belgium.
+

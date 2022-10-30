@@ -3,6 +3,7 @@ author: "Enrico Spinielli"
 date: "2015-08-08"
 categories: ["Vega", "D3"]
 title: "Learning Vega 2.0 a.k.a. Reactive Vega"
+license: CC BY-SA
 ---
 
 <style>

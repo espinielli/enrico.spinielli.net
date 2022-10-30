@@ -6,6 +6,7 @@ date: "2012-02-06"
 categories: ["git"]
 title: "Git and RSA identities"
 url: "/2012/02/06/git-and-rsa-identities/"
+license: CC BY-SA
 ---
 
 Here is the solution I found to be able to use `git` with a different RSA identity than the `rsa_id`
