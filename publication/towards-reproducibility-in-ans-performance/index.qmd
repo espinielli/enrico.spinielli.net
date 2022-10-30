@@ -7,8 +7,7 @@ categories:
   - Reproducubility
 ---
 
-![SESAR Innovation Days 2019](featured.jpg)
-
+![SESAR Innovation Days 2019](featured.png)
 ## Abstract
 
 Air transportation is undergoing a fundamental
