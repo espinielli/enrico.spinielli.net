@@ -3,7 +3,7 @@ title: Blog
 subtitle: News, tips, and rantings
 listing:
   sort: "date desc"
-  contents: "posts"
+  contents: "."
   sort-ui: false
   filter-ui: false
   categories: true

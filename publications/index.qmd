@@ -3,7 +3,7 @@ title: Publications
 subtitle: sharing knowledge.
 listing:
   sort: "date desc"
-  contents: "publication"
+  contents: "."
   sort-ui: false
   filter-ui: false
   categories: true

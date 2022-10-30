@@ -3,7 +3,7 @@ title: Projects
 subtitle: Hacking, explorations, stuff.
 listing:
   sort: "date desc"
-  contents: "project"
+  contents: "."
   sort-ui: false
   filter-ui: false
   categories: true

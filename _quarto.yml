@@ -25,11 +25,11 @@ website:
       aria-label: Enrico on LinkedIn
   navbar:
     left:
-    - href: blog.qmd
+    - href: posts/index.qmd
       text: Blog
-    - href: projects.qmd
+    - href: projects/index.qmd
       text: Projects
-    - href: publications.qmd
+    - href: publications/index.qmd
       text: Publications
     right:
     - about.qmd
