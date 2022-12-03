@@ -17,6 +17,8 @@ about:
     # add fontawesome icon, needs fontawesome extension
     - text: "{{< fa brands orcid >}} ORCID"
       href: https://orcid.org/0000-0001-8584-9131
+    - text: "{{< fa brands mastodon >}} Mastodon"
+      href: https://mstdn.social/@espinielli
 ---
 
 I'm an Italian :it: living in Brussels, Belgium.
