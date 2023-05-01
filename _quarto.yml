@@ -3,6 +3,9 @@ execute:
 project:
   type: website
   output-dir: _site
+listing:
+  feed: true
+  contents: posts
 
 website:
   title: "Enrico Spinielli"

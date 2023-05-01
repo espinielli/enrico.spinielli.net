@@ -4,6 +4,15 @@ subtitle: "A curious geek"
 listing:
   feed: true
   contents: posts
+  id: posts
+  sort: "date desc"
+  # max-items: 7
+  page-size: 7
+  # type: grid
+  # grid-columns: 3
+  # image-height: 250px
+  # page-size: 100
+  categories: true
 ---
 
 I am a curious person fascinated by the collective open knowledge available at our fingertips
@@ -21,3 +30,6 @@ with, so, due to lack of time, I mainly play with software...
 * [Statistical learning](https://github.com/rmcelreath/stat_rethinking_2020) (mainly the learning ;-)
 * [Map projections](https://observablehq.com/collection/@fil/projections)
 * [Calendrical algorithms](https://www.cs.tau.ac.il/~nachum/calendar-book/fourth-edition/)
+
+::: {#posts}
+:::

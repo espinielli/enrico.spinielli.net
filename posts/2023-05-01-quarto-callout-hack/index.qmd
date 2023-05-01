@@ -1,6 +1,6 @@
 ---
 title: "Hacking Quarto Callout in LaTeX"
-description: "a small customization victory"
+subtitle: "a small customization victory"
 author: Enrico Spinielli
 date: "2023-05-01"
 license: CC BY-SA

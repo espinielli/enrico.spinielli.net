@@ -1,9 +1,10 @@
 ---
-title: Blog
-subtitle: News, tips, and rantings
+title: "Blog"
+subtitle: "News, tips, and rantings"
 listing:
   sort: "date desc"
   contents: "."
+  page-size: 7
   sort-ui: false
   filter-ui: false
   categories: true
