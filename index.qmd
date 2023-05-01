@@ -1,6 +1,9 @@
 ---
 title: "Enrico Spinielli"
 subtitle: "A curious geek"
+listing:
+  feed: true
+  contents: posts
 ---
 
 I am a curious person fascinated by the collective open knowledge available at our fingertips

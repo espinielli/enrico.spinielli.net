@@ -4,6 +4,7 @@ author: Enrico Spinielli
 date: '2018-06-30'
 categories: ["R", "Maps"]
 license: CC BY-SA
+citation: true
 ---
 
 

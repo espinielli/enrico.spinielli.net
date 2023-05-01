@@ -1,0 +1,46 @@
+---
+title: "Hacking Quarto Callout in LaTeX"
+description: "a small customization victory"
+author: Enrico Spinielli
+date: "2023-05-01"
+license: CC BY-SA
+categories: [Quarto, LaTeX, TIL]
+citation: true
+---
+
+The Quarto Guide goes into details about how to define [callout blocks](https://quarto.org/docs/authoring/callouts.html) and eventually customize them.
+
+Of course, I was asked to change the color of the callout box, which is not out-of-the-box available.
+A look at the generated LaTeX file shows that `quarto-callout-note-color` is set as
+
+```{latex}
+\definecolor{quarto-callout-note-color-frame}{HTML}{4582ec}
+```
+
+I then tried to add a different definition using `include-in-header:`...but the default definitions of the callout boxes colors came after mine!
+
+So I dug in the [PDF template](https://github.com/quarto-dev/quarto-cli/blob/b4bed358294188378d21bec81a307fa3246b3a69/src/resources/formats/pdf/pandoc/template.tex) and saw that latest place where to set things before the LaTeX body
+is to provide a custom `title.tex` partial
+
+```{latex}
+...
+$title.tex()$
+\begin{document}
+$before-body.tex()$
+...
+```
+
+The solution: I copied the default [`title.tex`](https://github.com/quarto-dev/quarto-cli/blob/b3b969f570585cf55bc9fe35ece4a9b2878a1f22/src/resources/formats/pdf/pandoc/title.tex) and added my color definition.
+Finally I set the YAML of my Quarto document as follows:
+
+```{yml}
+...
+  pdf:
+  	...
+    template-partials:
+      - title.tex
+...
+```
+
+
+TADA!

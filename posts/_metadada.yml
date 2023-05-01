@@ -1,0 +1,30 @@
+# Freeze computed outputs
+# freeze: auto
+
+# Enable banner style title blocks
+# title-block-banner: true
+
+# Enable CC licence appendix
+license: "CC BY-SA"
+
+# Default for table of contents
+toc: true
+toc-title: Table of contents
+toc-location: left
+
+# Default knitr options
+execute:
+  echo: true
+  message: true
+  warning: true
+
+# Default author
+author:
+  - name: Enrico Spinielli
+    url: https://enrico.spinielli.net
+    affiliation: EUROCONTROL
+    affiliation-url: https://ansperformance.eu
+    orcid: 0000-0001-8584-9131
+
+# Default fields for citation
+citation: true
