@@ -1,0 +1,34 @@
+---
+title: "Towards characterising inefficiencies and constraints in airport arrival synchronisation for higher levels of operational efficiency"
+author: "Rainer Koelle, Enrico Spinielli, Quinten Goens, Fabio Barbosa, Melo Indicadores"
+date: 2023-10-01
+categories:
+  - Research
+tags:
+  - network analysis
+  - graph representation learning
+  - change dynamics
+doi: '10.1109/DASC58513.2023.10311127'
+publishDate: '2023-10-01T00:00:00'
+publication: '2023 IEEE/AIAA 42nd Digital Avionics Systems Conference (DASC)'
+summary: ''
+subtitle: ''
+featured: yes
+links:
+- icon: doi
+  icon_pack: ai
+  name: Publication
+  url: https://doi.org/10.1109/DASC58513.2023.10311127
+bibliography: ../../bibliography.bib
+nocite: |
+  @10311127
+---
+
+
+## Abstract
+
+The ongoing debate about the climate impact of air transportation requires a higher level of operational efficiency as a now-term measure. Efficiency gains from the wide-spread use of sustainable aviation fuel or technological advances in terms of aircraft propulsion and airframes will require some lead time. This paper conceptualises and explores the spacing deviation concept to describe operational benefit pools in the arrival phase. The feasibility study follows a data-driven approach and explores the application of the concept to an airport in Brazil and Europe. These airports are characterised by their different operational concepts. The results show the general feasibility of quantifying operational benefit pools in the final phase of arrival operations. This study supports the further development to expand the time horizon for the monitoring of performance in the context of trajectory-based operations.
+
+## Venue
+
+2023 IEEE/AIAA 42nd Digital Avionics Systems Conference (DASC), 01-05 October 2023, Barcelona, Spain.

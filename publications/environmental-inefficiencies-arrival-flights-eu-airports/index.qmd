@@ -1,0 +1,32 @@
+---
+title: "Environmental inefficiencies for arrival flights at European airports"
+author: "Xavier Olive,Junzi Sun,Luis Basora, Enrico Spinielli"
+date: 2023-06-23
+categories:
+  - Research
+tags:
+  - network analysis
+  - graph representation learning
+  - change dynamics
+doi: '10.1371/journal.pone.0287612'
+publishDate: '2023-60-23T00:00:00'
+publication: 'PLOS ONE'
+summary: ''
+subtitle: ''
+featured: yes
+links:
+- icon: doi
+  icon_pack: ai
+  name: Publication
+  url: https://doi.org/10.1371/journal.pone.0287612
+bibliography: ../../bibliography.bib
+nocite: |
+  @10.1371/journal.pone.0287612
+---
+
+![Holding patterns around London Heathrow airport](featured.png)
+
+## Abstract
+
+In this paper, we analyze two months of trajectory data for aircraft landing in five major European airports. Based on open ADS-B data from the OpenSky Network and open performance models, we enrich all trajectories with automatically detected procedure information, fuel consumption, and emissions for supported aircraft types. To assess the inefficiencies associated with holding patterns, point merges, and continuous descent operations across different airports, we propose methodologies to quantify and compare these environmental inefficiencies. Holding patterns are found to have a higher negative impact on the environment than point merge and continuous descent operations. Furthermore, the paper provides recommendations for procedure evaluations of future airports, which could help policymakers and relevant stakeholders to evaluate the environmental performances of arrival procedures based on open data and open models.
+
