@@ -18,12 +18,11 @@ scripts ... It also includes productions for generating a sample program about
 Ackermann function: 
 
 
-{{< highlight python "style=emacs" >}}
+```commonlisp
 	ackdoc  = env.NoWeave('ack.tex', 'ack.nw')
 	ackcode = env.NoTangle('ack.py', 'ack.nw')
 	acktest = env.NoTangle('ackTest.py', 'ack.nw')
-{{< / highlight >}}
-
+```
 
 The noweb source is [ack.nw](https://enrico.spinielli.googlepages.com/ack.nw) and
 the companion BibTeX file is
@@ -35,10 +34,9 @@ the relevant Python code and the code chunk for the unit test.
 You can try it out executing
 
 
-{{< highlight bash >}}
+```bash
 	$ scons -f Sconstruct.example
-{{< / highlight >}}
-
+```
 
 You will get the following artefacts,
 [ack.py](https://enrico.spinielli.googlepages.com/ack.py),
