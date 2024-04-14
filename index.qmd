@@ -1,18 +1,6 @@
 ---
 title: "Enrico Spinielli"
 subtitle: "A curious geek"
-listing:
-  feed: true
-  contents: posts
-  id: posts
-  sort: "date desc"
-  # max-items: 7
-  page-size: 7
-  # type: grid
-  # grid-columns: 3
-  # image-height: 250px
-  # page-size: 100
-  categories: true
 ---
 
 I am a curious person fascinated by the collective open knowledge available at our fingertips
