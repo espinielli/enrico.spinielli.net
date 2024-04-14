@@ -1,0 +1,33 @@
+---
+title: "Studying the impact of COVID-19 on the European Air Transportation Network"
+author: "Juul Vossen; Enrico Spinielli; Quinten Goens; Rainer Koelle"
+date: 2023-06-15
+categories:
+  - Research
+tags:
+  - european aviation network 
+  - covid19
+doi: '10.1109/icns58246.2023.10124296'
+publishDate: '2023-06-15T00:00:00'
+publication: 'IEEE'
+summary: ''
+subtitle: ''
+featured: yes
+links:
+- icon: doi
+  icon_pack: ai
+  name: Publication
+  url: https://doi.org/10.1109/icns58246.2023.10124296
+bibliography: ../../bibliography.bib
+nocite: |
+  @vossen2023
+---
+
+
+## Abstract
+
+The European Air Transportation Network was significantly impacted by the COVID-19 pandemic, resulting in an unprecedented loss of flight connections. Utilizing a combination of graph representation learning and time series analysis, this paper studies the evolution of both the global connectivity as well as the structure of the European Air Transportation Network from January 2020 to December 2022. Specifically, it finds strong differences in recovery rates for flights across six different market segments. In terms of network structure, the study finds that structural roles that are present in the pre-covid network have seen a loss in performance over the course of the pandemic, but have recovered to pre-covid levels. Using regional changes in structural roles, this study identifies Italy as the region with the strongest increase and the United Kingdom as the region with the strongest decrease in structural role, finding substantial differences in recovery rates per market segment. Lastly, this study pays special attention on the effect of the Russia-Ukrainian war on the European Air Transportation Network.
+
+## Venue
+
+2023 Integrated Communication, Navigation and Surveillance Conference (ICNS), 18-20 April 2023, Herndon, VA, USA
