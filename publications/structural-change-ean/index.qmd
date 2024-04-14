@@ -1,0 +1,35 @@
+---
+title: "Studying structural change in the European Aviation Network"
+author: "Juul Vossen, Enrico Spinielli, Rainer Koelle"
+date: 2024-11-30
+categories:
+  - Research
+tags:
+  - network analysis
+  - graph representation learning
+  - change dynamics
+doi: '10.61009/sid.2023.1.29'
+publishDate: '2023-11-30T10:00:00'
+publication: 'SESAR Innovation Days 2023'
+summary: ''
+subtitle: ''
+featured: yes
+links:
+- icon: doi
+  icon_pack: ai
+  name: Publication
+  url: https://doi.org/10.61009/sid.2023.1.29
+bibliography: ../../bibliography.bib
+nocite: |
+  @vossenStudyingStructuralChange
+---
+
+![Heat propagation for cluster C1 to C6](featured.png)
+
+## Abstract
+
+Drastic loss of flight connections due to the COVID-19 pandemic has called for new approaches to accurately study structural change in the European Aviation Network. This study highlights the limitations of traditional centrality-based network approaches and proposes a diffusion-based graph embedding approach using the GraphWave algorithm. This new approach was validated using domain knowledge and tested in its ability to capture known events that occurred during and after the COVID19 pandemic. The network is modelled based on all flights departing from and arriving to European airports in the period of 2019 through 2022. Flight connections were aggregated on a weekly basis to analyze structural embeddings and the structural role of airports. The temporal analysis supported the identification and assessment of changes to the role of airports and structural changes of the network. This study shows the potential of the approach by applying the model to uncover global, regional, and local change dynamics, and highlighting its potential as a valuable tool for researchers and practitioners studying the evolution of complex networks.
+
+## Venue
+
+SESAR Innovation Days 2023, 27-30 November 2023, Seville, Spain, https://www.sesarju.eu/SIDS2023

@@ -3,6 +3,8 @@ title: "Building Back Better – Democratization of Performance Monitoring with 
 date: "2021-10-07"
 author: Rainer Koelle, Sam Peeters, Enrico Spinielli
 doi: https://doi.org/10.1109/DASC52595.2021.9594320
+categories:
+  - Research
 ---
 
 ![DASC 2021](featured.png)

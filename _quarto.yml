@@ -3,9 +3,6 @@ execute:
 project:
   type: website
   output-dir: _site
-listing:
-  feed: true
-  contents: posts
 
 website:
   title: "Enrico Spinielli"
@@ -19,19 +16,18 @@ website:
   page-navigation: true
   page-footer:
     right:
-    - icon: twitter
-      href: https://twitter.com/espinielli
-      aria-label: Enrico on Twitter
     - icon: github
       href: https://github.com/espinielli
       aria-label: Enrico on GitHub
     - icon: linkedin
       href: https://www.linkedin.com/in/espinielli/
       aria-label: Enrico on LinkedIn
+    - icon: paperclip
+      href: https://orcid.org/0000-0001-8584-9131
+      aria-label: Enrico on OrcId
     - icon: mastodon
       href: https://mstdn.social/@espinielli
       aria-label: Enrico on Mastodon
-      # ref: me
   navbar:
     left:
     - href: posts/index.qmd
